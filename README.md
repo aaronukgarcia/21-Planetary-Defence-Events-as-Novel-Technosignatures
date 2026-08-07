@@ -1,6 +1,6 @@
 # Planetary Defence Events as Technosignatures
 
-*What would be detectable, and what would not — v3.0, August 2026*
+*What would be detectable, and what would not — v3.1, August 2026*
 
 ## The idea
 
@@ -28,7 +28,7 @@ No external peer review has been sought or obtained for this work, and no review
 
 ## Documentation
 
-See [`Planetary_Defence_Technosignatures_v3.0.pdf`](Planetary_Defence_Technosignatures_v3.0.pdf).
+See [`Planetary_Defence_Technosignatures_v3.1.pdf`](Planetary_Defence_Technosignatures_v3.1.pdf).
 
 ## What would help
 
@@ -42,3 +42,7 @@ MIT License — see [LICENSE](LICENSE).
 
 Aaron Garcia
 aaron@garcia.ltd
+
+## Version 3.1 (same day)
+
+A fresh adversarial pass on v3.0 — run at the author's request, on the pipeline's own output — caught a mechanism error in Section 3: the sustained infrared signal from impact debris is predominantly *reprocessed starlight* intercepted by the dust's enormous cross-section, not radiated collision energy (which dissipates far sooner). The section is corrected, the energy arithmetic is demoted to a labelled illustration, and a falsely precise comparison to the Moon-forming impact's energy is softened to reflect that value's order-of-magnitude uncertainty.
